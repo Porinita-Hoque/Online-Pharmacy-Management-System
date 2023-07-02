@@ -39,3 +39,9 @@ The manufacturer component helps manufacturers manage their product inventory an
 
 ## Conclusion
 <p align="justify">The Online Pharmacy Management System offers a user-friendly and efficient solution for managing pharmacy operations. It empowers administrators to control inventory, handle customer orders, and manage manufacturers effectively. Customers can conveniently browse and purchase medicines online, while manufacturers can manage their product inventory and process orders seamlessly. By utilizing HTML, CSS, and JavaScript, the system provides a responsive and interactive user experience. Its modular design allows for easy scalability and future enhancements, making it a valuable tool for online pharmacy management.</p>
+
+
+<br>
+<br>
+
+#### <p align="center"> Copyright © Porinita Hoque (ID : 1711204042) </p>
