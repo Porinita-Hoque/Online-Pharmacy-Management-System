@@ -7,7 +7,7 @@ The Online Pharmacy Management System is a web-based application developed to st
 The Online Pharmacy Management System consists of three main components:
 
 ### Admin Component
-<p align="justify">The admin component provides comprehensive control over the entire system. Key features include:</p>
+The admin component provides comprehensive control over the entire system. Key features include:
 - Login functionality for admin authentication.
 - Dashboard to display system statistics, such as total sales, stock status, and pending orders.
 - Inventory management to add, update, and delete medicines.
@@ -17,17 +17,17 @@ The Online Pharmacy Management System consists of three main components:
 - User management to control access and permissions for other users.
 
 ### Customer Component
-<p align="justify">The customer component allows customers to browse and purchase medicines online. Features include:</p>
-- User registration and login for personalized services.
-- Medicine catalog to search and browse available medicines.
-- Detailed medicine information, including price, dosage, and stock status.
-- Shopping cart functionality to add, remove, and update items.
-- Order placement and payment processing.
-- Order history to view past orders and track their status.
-- Notifications and alerts for order updates or promotions.
+The customer component allows customers to browse and purchase medicines online. Features include:
+ - User registration and login for personalized services.
+ - Medicine catalog to search and browse available medicines.
+ - Detailed medicine information, including price, dosage, and stock status.
+ - Shopping cart functionality to add, remove, and update items.
+ - Order placement and payment processing.
+ - Order history to view past orders and track their status.
+ - Notifications and alerts for order updates or promotions.
 
 ### Manufacturer Component
-<p align="justify">The manufacturer component helps manufacturers manage their product inventory and process orders. Features include:</p>
+The manufacturer component helps manufacturers manage their product inventory and process orders. Features include:
 - Manufacturer login to access the system.
 - Product inventory management to add, update, and delete products.
 - Order tracking and processing functionality.
