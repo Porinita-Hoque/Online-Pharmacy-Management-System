@@ -1,10 +1,10 @@
 # <p align="center"> Pharmacy Management System </p>
 
 <p align="justify">
-The Online Pharmacy Management System is a web-based application developed to streamline the operations of a pharmacy. It provides a user-friendly interface for administrators, customers, and manufacturers. The system is built using HTML, CSS, and JavaScript to create an interactive and responsive user experience.</p>
+The Pharmacy Management System is a web-based application developed to streamline the operations of a pharmacy. It provides a user-friendly interface for administrators, customers, and manufacturers. The system is built using HTML, CSS, and JavaScript to create an interactive and responsive user experience.</p>
 
 ## System Components
-The Online Pharmacy Management System consists of three main components:
+This system consists of three main components:
 
 ### Admin Component
 The admin component provides comprehensive control over the entire system. Key features include:
@@ -35,10 +35,10 @@ The manufacturer component helps manufacturers manage their product inventory an
 - Reporting functionality to generate reports on product sales and revenue.
 
 ## System Design and Implementation
-<p align="justify">The Online Pharmacy Management System is developed using HTML, CSS, and JavaScript to create an interactive and responsive user interface. The front-end design is implemented using HTML for structure, CSS for styling, and JavaScript for dynamic behavior. The system follows a client-server architecture. The server-side is implemented using PHP & MySQL. The front-end components prioritize usability, accessibility, and responsiveness.</p>
+<p align="justify">Pharmacy Management System is developed using HTML, CSS, and JavaScript to create an interactive and responsive user interface. The front-end design is implemented using HTML for structure, CSS for styling, and JavaScript for dynamic behavior. The system follows a client-server architecture. The server-side is implemented using PHP & MySQL. The front-end components prioritize usability, accessibility, and responsiveness.</p>
 
 ## Conclusion
-<p align="justify">The Online Pharmacy Management System offers a user-friendly and efficient solution for managing pharmacy operations. It empowers administrators to control inventory, handle customer orders, and manage manufacturers effectively. Customers can conveniently browse and purchase medicines online, while manufacturers can manage their product inventory and process orders seamlessly. By utilizing HTML, CSS, and JavaScript, the system provides a responsive and interactive user experience. Its modular design allows for easy scalability and future enhancements, making it a valuable tool for online pharmacy management.</p>
+<p align="justify">Pharmacy Management System offers a user-friendly and efficient solution for managing pharmacy operations. It empowers administrators to control inventory, handle customer orders, and manage manufacturers effectively. Customers can conveniently browse and purchase medicines online, while manufacturers can manage their product inventory and process orders seamlessly. By utilizing HTML, CSS, and JavaScript, the system provides a responsive and interactive user experience. Its modular design allows for easy scalability and future enhancements, making it a valuable tool for online pharmacy management.</p>
 
 
 <br>
